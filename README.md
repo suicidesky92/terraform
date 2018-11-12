@@ -1,1 +1,1 @@
-terraform for Digital ocean
+terraform configs
